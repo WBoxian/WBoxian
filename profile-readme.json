@@ -1,0 +1,23 @@
+{
+  "github_username": "WBoxian",
+  "your_name": "Boxian Wen",
+  "subtitle": "Algorithm Engineer focused on Search, Recommendation, and Backend Systems | 聚焦搜索、推荐与后端系统的算法工程师",
+  "currently_working_on": "Building an end-to-end Xiaohongshu-style search and recommendation personal project, covering retrieval, ranking, feature engineering, and backend system design. | 正在从 0 到 1 搭建一个小红书风格的搜索推荐个人项目，覆盖检索、排序、特征工程与后端系统设计。",
+  "currently_learning": "Advanced recommender systems, ranking strategies, LLM applications for search and recommendation, SQL optimization, and scalable backend architecture. | 正在深入学习推荐系统、排序策略、LLM 在搜索推荐中的应用、SQL 优化与可扩展后端架构。",
+  "looking_to_collaborate_on": "Open-source or practical projects related to search, ranking, recommendation, backend engineering, and applied AI. | 希望参与搜索、排序、推荐、后端工程与应用型 AI 相关的开源或实战项目合作。",
+  "looking_for_help_with": "Production-grade ML system design, evaluation frameworks for ranking systems, and engineering best practices for scalable recommendation services. | 希望获得关于生产级机器学习系统设计、排序评估体系以及可扩展推荐服务工程实践方面的建议。",
+  "ask_me_about": "Python, search systems, recommendation pipelines, ranking, backend architecture, feature engineering, and applied machine learning. | 欢迎交流 Python、搜索系统、推荐链路、排序、后端架构、特征工程与应用机器学习。",
+  "how_to_reach_me": "GitHub: https://github.com/WBoxian | Email: boxian.wen@outlook.com",
+  "fun_fact": "I prefer building complete ML products, not just training models. | 我更喜欢把算法方案做成完整可运行的产品，而不只是停留在模型训练。",
+  "career_direction": "Looking for opportunities and collaborations in recommendation systems, search, and backend algorithm engineering. | 关注推荐系统、搜索与后端算法工程相关的机会与合作。",
+  "tech_keywords": [
+    "Python",
+    "Search",
+    "Recommendation",
+    "Ranking",
+    "Backend",
+    "SQL",
+    "Machine Learning",
+    "System Design"
+  ]
+}
