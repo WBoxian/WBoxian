@@ -1,201 +1,69 @@
-<p align="center">
-  <a href="https://rahuldkjain.github.io/github-profile-readme-generator">
-    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  GitHub Profile README Generator
-</h1>
+# Hi, I'm Boxian Wen
 
-<p align="center">
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
-<a href="https://discord.gg/HHMs7Eg" target="blank">
-<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
-</a>
-</p>
+Algorithm Engineer focused on Search, Recommendation, and Backend Systems.  
+聚焦搜索、推荐与后端系统的算法工程师。
 
-<p align="center"><img src="/public/demo.gif" alt="github-profile-readme-generator gif" /></p>
+## About Me | 关于我
 
-<p align="center">
-    <a href="https://rahuldkjain.github.io/github-profile-readme-generator" target="blank">View Demo</a>
-    ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
-</p>
+- Building an end-to-end Xiaohongshu-style search and recommendation personal project
+- 正在从 0 到 1 搭建一个小红书风格的搜索推荐个人项目
+- Interested in retrieval, ranking, recommendation pipelines, and backend engineering
+- 关注检索、排序、推荐链路与后端工程落地
+- Prefer turning algorithm ideas into complete, runnable products
+- 更喜欢把算法方案做成完整可运行的产品，而不只是停留在模型训练
 
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
-</p>
+## Current Focus | 当前重点
 
-<p align="center">
-<a href="https://www.paypal.me/rahuldkjain"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
-</a>
-<a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
-</a>
-<a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
-</p>
+- Search and recommendation system architecture
+- 搜索推荐系统架构设计
+- Feature engineering and ranking optimization
+- 特征工程与排序优化
+- Python backend engineering and scalable services
+- Python 后端工程与可扩展服务设计
+- Practical ML systems with clear engineering boundaries
+- 兼顾算法效果与工程边界的实战型机器学习系统
 
-#### Tired of editing GitHub Profile README with new features?
+## Learning | 正在学习
 
-This tool provides an easy way to create a GitHub profile readme with the latest add-ons such as `visitors count`, `github stats`, etc.
+- Advanced recommender systems and ranking strategies
+- 更深入的推荐系统与排序策略
+- LLM applications for search and recommendation
+- LLM 在搜索推荐场景中的应用
+- SQL optimization and production-style backend architecture
+- SQL 优化与生产级后端架构
 
-## 🚀 Demo
+## Selected Project | 重点项目
 
-<a href="https://rahuldkjain.github.io/github-profile-readme-generator" target="blank">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator&logo=github&style=flat-square" />
-</a>
+### Rednote Qilin Search & Recommendation System
 
-Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/github-profile-readme-generator)
+An end-to-end personal project inspired by Xiaohongshu, covering retrieval, ranking, recommendation, data processing, and backend service design.  
+一个受小红书启发的端到端个人项目，覆盖检索、排序、推荐、数据处理与后端服务设计。
 
-## 🧐 Features
+Repository:  
+[Rednote-Qilin-Search-Rec-System](https://github.com/WBoxian/Rednote-Qilin-Search-Rec-System)
 
-Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog`, etc. with a minimal UI.
+## Tech Stack | 技术栈
 
-- **Uniform Dev Icons**
+`Python` `FastAPI` `SQL` `Redis` `Elasticsearch` `PyTorch` `Machine Learning` `Recommendation` `Ranking` `Backend`
 
-- **Uniform Social Icons**
+## Looking For | 期待方向
 
-- **Visitors Counter Badge**
+- Opportunities in search, recommendation, and backend algorithm engineering
+- 推荐系统、搜索与后端算法工程相关的机会
+- Collaboration on practical ML or ranking system projects
+- 搜索排序、推荐系统与实战型机器学习项目合作
 
-- **GitHub Profile Stats Card**
+## Contact | 联系方式
 
-- **GitHub Top Skills**
+- GitHub: [@WBoxian](https://github.com/WBoxian)
+- LinkedIn: [boxian-wen-6b00692b8](https://linkedin.com/in/boxian-wen-6b00692b8)
+- Email: boxian.wen@outlook.com
 
-- **GitHub Streak Stats**
+## Personal Site | 个人网站
 
-- **Dynamic Dev(.)to Blogs** (GitHub Action)
+- Website: [wboxian.github.io](https://wboxian.github.io/)
 
-- **Dynamic Medium Blogs** (GitHub Action)
+---
 
-- **Dynamic Personal Blogs from RSS Feed** (GitHub Action)
-
-- **Wakatime Stats** [contribute](https://github.com/rahuldkjain/github-profile-readme-generator/issues/115)
-
-- **Buy Me A Coffee button**
-
-Click on `Generate README` to get your README in `markdown`.
-You can preview the README too.
-
-## 🛠️ Installation Steps
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
-```
-
-2. Change the working directory
-
-```bash
-cd github-profile-readme-generator
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Run the app
-
-```bash
-npm run dev
-```
-
-🌟 You are all set!
-
-## 🍰 Contributing
-
-Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/rahuldkjain/github-profile-readme-generator/compare).
-
-Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
-
-## 💻 Built with
-
-- [Next.js 15](https://nextjs.org/) - React framework with App Router
-- [TypeScript](https://www.typescriptlang.org/) - Type safety and better DX
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library
-- [Lucide React](https://lucide.dev/) - Beautiful & consistent icons
-- [React Hook Form](https://react-hook-form.com/) - Performant forms with easy validation
-
-## 🙇 Special Thanks
-
-- [Anurag Hazra](https://github.com/anuraghazra) for amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- [Anton Komarev](https://github.com/antonkomarev) for super cool [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-- [Gautam Krishna R](https://github.com/gautamkrishnar) for the awesome [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-- [Jonah Lawrence](https://github.com/DenverCoder1) for the incredible [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Julien Monty](https://github.com/konpa) for super useful [devicon](https://github.com/konpa/devicon)
-- [Eliot Sanford](https://github.com/techieeliot) for adding hashnode as a blog input
-
-## 🙇 Sponsors
-
-- [Scott C Wilson](https://github.com/scottcwilson) donated the first-ever grant to this tool. A big thanks to him.
-- [Max Schmitt](https://github.com/mxschmitt) loved the tool and showed support with his donation. Thanks a lot.
-- [Aadit Kamat](https://github.com/aaditkamat) find the tool useful and showed support with his donation. A big thanks to him.
-- [Jean-Michel Fayard](https://github.com/jmfayard) used the generator to create his GitHub Profile README and he loved it. Thanks to him for showing support to the tool with the donation.
-
-## 🔒 Privacy & Analytics
-
-This tool includes privacy-friendly analytics to help improve the user experience:
-
-- **Google Analytics 4** with GDPR-compliant consent management
-- **IP anonymization** and privacy-first configuration
-- **Custom events** tracking for GitHub auto-fill, README generation, and exports
-- **Cookie consent banner** - users can opt-out anytime
-- **No personal data** collection - only anonymous usage patterns
-
-
-## 📄 Font Licensing
-
-This project uses the **Wotfard** font family:
-
-- **Font**: Wotfard Regular
-- **Usage**: This font is used under fair use for open source projects
-- **Source**: Downloaded from online typography resources
-- **Note**: If you're the font creator and have concerns about usage, please [contact us](mailto:rahuldkjain@gmail.com)
-
-For commercial use of this project, please verify font licensing requirements.
-
-## 🙏 Support
-
-<p align="left">
-<a href="https://www.paypal.me/rahuldkjain/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
-</a>
-<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator">
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator" alt="tweet github profile readme generator"/>
-</a>
-</p>
-
-<p align="left">
-  <a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
-  </a>
-  <a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
-</p>
-
-## 🌟 Star History
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date" />
-  <img alt="GPRG Star History Chart" src="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date" />
-</picture>
-
-<hr>
-<p align="center">
-Developed with ❤️ in India 🇮🇳 
-</p>
+> Building search and recommendation systems with product thinking and engineering discipline.  
+> 用产品思维和工程纪律做真正可落地的搜索推荐系统。
