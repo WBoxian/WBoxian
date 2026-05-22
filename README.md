@@ -1,52 +1,47 @@
-<h1 align="center">文博贤 · Boxian Wen</h1>
-<h3 align="center">算法工程师 · 搜索推荐 · 排序系统 · 后端智能系统</h3>
-<p align="center">Algorithm Engineer · Search, Recommendation, Ranking, and Backend Systems</p>
+<h1 align="center">Boxian Wen</h1>
+<p align="center">Algorithm Engineer focused on Search, Recommendation, Ranking, and Backend Intelligent Systems</p>
 
 <p align="center">
   <a href="#中文">
-    <img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-B44C24?style=for-the-badge" alt="中文" />
+    <img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-B44C24?style=flat-square" alt="中文" />
   </a>
   <a href="#english">
-    <img src="https://img.shields.io/badge/EN-16110F?style=for-the-badge" alt="English" />
+    <img src="https://img.shields.io/badge/EN-16110F?style=flat-square" alt="English" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/WBoxian">
-    <img src="https://img.shields.io/badge/GitHub-WBoxian-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-WBoxian-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/boxian-wen-6b00692b8">
-    <img src="https://img.shields.io/badge/LinkedIn-Boxian%20Wen-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Boxian%20Wen-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:boxian.wen@outlook.com">
-    <img src="https://img.shields.io/badge/Email-boxian.wen@outlook.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-boxian.wen@outlook.com-EA4335?style=flat-square&logo=gmail" alt="Email" />
   </a>
   <a href="https://wboxian.github.io/">
-    <img src="https://img.shields.io/badge/Website-wboxian.github.io-B44C24?style=for-the-badge&logo=googlechrome" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-wboxian.github.io-B44C24?style=flat-square&logo=googlechrome" alt="Website" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://wboxian.github.io/assets/support/wechat.jpg">
-    <img src="https://img.shields.io/badge/WeChat-%E6%AC%A2%E8%BF%8E%E8%B5%9E%E5%8A%A9-07C160?style=for-the-badge&logo=wechat" alt="WeChat" />
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
   </a>
   <a href="https://wboxian.github.io/assets/support/alipay.jpg">
-    <img src="https://img.shields.io/badge/Alipay-%E6%AC%A2%E8%BF%8E%E8%B5%9E%E5%8A%A9-1677FF?style=for-the-badge&logo=alipay" alt="Alipay" />
+    <img src="https://img.shields.io/badge/Alipay-1677FF?style=flat-square&logo=alipay&logoColor=white" alt="Alipay" />
   </a>
   <a href="https://wboxian.github.io/assets/support/paypal.png">
-    <img src="https://img.shields.io/badge/PayPal-Buy%20me%20a%20coffee-003087?style=for-the-badge&logo=paypal" alt="PayPal" />
+    <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WBoxian&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
 </p>
 
 <a id="中文"></a>
 
 ## 中文
 
-我拥有 **伦敦大学学院 UCL 计算生态学研究型硕士** 与 **中山大学海洋生物学本科** 背景，目前正明确转向 **算法工程师方向**，重点关注 **搜索、推荐、排序与后端智能系统**。
+我拥有 **UCL 计算生态学研究型硕士** 与 **中山大学海洋生物学本科** 背景，目前正明确转向 **算法工程师方向**，重点关注 **搜索、推荐、排序与后端智能系统**。
 
 ### 个人定位
 
@@ -74,6 +69,15 @@
 项目地址：  
 [Rednote-Qilin-Search-Rec-System](https://github.com/WBoxian/Rednote-Qilin-Search-Rec-System)
 
+### 技术栈
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres,mysql,docker,linux,git" alt="core stack" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,elasticsearch" alt="ml stack" />
+</p>
+
 ### 论文与研究方向
 
 - *Journal of Oceanology and Limnology*  
@@ -89,17 +93,13 @@
 - 数据密集型机器学习工程与检索推荐系统相关岗位
 - AI 多模态珊瑚保护、计算生态学方向的全奖博士机会
 
-### 欢迎赞助
-
-按顺序支持：**WeChat / Alipay / PayPal**
-
 ---
 
 <a id="english"></a>
 
 ## English
 
-I am an engineer and researcher with a **UCL computational ecology** background and a **Sun Yat-sen University biology** background, now pivoting decisively into **algorithm engineering**, especially **search, recommendation, ranking, and backend intelligent systems**.
+I have a **UCL computational ecology** background built on a **Sun Yat-sen University biology** foundation, and I am now pivoting decisively into **algorithm engineering**, especially **search, recommendation, ranking, and backend intelligent systems**.
 
 ### Positioning
 
@@ -127,6 +127,15 @@ An end-to-end personal project inspired by Xiaohongshu, focused on retrieval, ra
 Repository:  
 [Rednote-Qilin-Search-Rec-System](https://github.com/WBoxian/Rednote-Qilin-Search-Rec-System)
 
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres,mysql,docker,linux,git" alt="core stack" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,elasticsearch" alt="ml stack" />
+</p>
+
 ### Publications & Research Direction
 
 - *Journal of Oceanology and Limnology*  
@@ -141,7 +150,3 @@ Repository:
 - Algorithm Engineer / Recommendation Engineer / Search Engineer
 - Backend ML engineering and data-intensive intelligent system roles
 - Fully funded PhD opportunities in AI multimodal coral conservation and computational ecology
-
-### Support
-
-Support order: **WeChat / Alipay / PayPal**
