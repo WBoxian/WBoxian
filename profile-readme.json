@@ -1,37 +1,38 @@
 {
   "name": "Boxian Wen",
-  "headline_en": "Algorithm Engineer focused on Search, Recommendation, Ranking, and Backend Systems",
-  "headline_zh": "聚焦搜索、推荐、排序与后端系统的算法工程师",
+  "headline_zh": "算法工程师，聚焦搜索、推荐、排序与后端智能系统",
+  "headline_en": "Algorithm Engineer focused on Search, Recommendation, Ranking, and Backend Intelligent Systems",
   "email": "boxian.wen@outlook.com",
   "github": "https://github.com/WBoxian",
   "linkedin": "https://linkedin.com/in/boxian-wen-6b00692b8",
   "website": "https://wboxian.github.io/",
-  "cv": "https://wboxian.github.io/assets/resume/boxian-wen-cv.docx",
   "support_links": {
+    "wechat": "https://wboxian.github.io/assets/support/wechat.jpg",
     "alipay": "https://wboxian.github.io/assets/support/alipay.jpg",
-    "paypal": "https://wboxian.github.io/assets/support/paypal.png",
-    "wechat": "https://wboxian.github.io/assets/support/wechat.jpg"
+    "paypal": "https://wboxian.github.io/assets/support/paypal.png"
   },
   "education": [
     {
-      "school": "University College London",
       "school_zh": "伦敦大学学院",
-      "degree": "Research Master's in Computational Ecology",
+      "school_en": "University College London",
+      "degree_zh": "计算生态学研究型硕士",
+      "degree_en": "Research Master's in Computational Ecology",
       "period": "2023-2024"
     },
     {
-      "school": "Sun Yat-sen University",
       "school_zh": "中山大学",
-      "degree": "B.Sc. in Marine Biology",
+      "school_en": "Sun Yat-sen University",
+      "degree_zh": "海洋生物学理学学士",
+      "degree_en": "B.Sc. in Marine Biology",
       "period": "2019-2023"
     }
   ],
-  "interests": {
+  "targets": {
     "roles": [
       "Algorithm Engineer",
       "Recommendation Engineer",
       "Search Engineer",
-      "Backend ML Engineer"
+      "Backend Intelligent Systems"
     ],
     "phd": [
       "Fully funded AI multimodal coral conservation PhD",
@@ -42,16 +43,10 @@
     "RNA-seq and transcriptomics analysis",
     "Environmental DNA metabarcoding",
     "AI-assisted coral annotation with CoralNet",
-    "Bioinformatics pipelines and ecological data analysis"
+    "Bioinformatics and ecological data analysis"
   ],
   "featured_project": {
     "name": "Rednote Qilin Search & Recommendation System",
-    "url": "https://github.com/WBoxian/Rednote-Qilin-Search-Rec-System",
-    "summary": "A Xiaohongshu-style end-to-end search and recommendation system personal project."
-  },
-  "publications": [
-    "Journal of Oceanology and Limnology: comparative transcriptome analysis of deep-sea mussels",
-    "Molecular Ecology (in preparation): airborne environmental DNA for British bats",
-    "Environmental DNA (submitted): coral community assessment with eDNA and AI-assisted annotation"
-  ]
+    "url": "https://github.com/WBoxian/Rednote-Qilin-Search-Rec-System"
+  }
 }
