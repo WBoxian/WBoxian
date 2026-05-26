@@ -1,7 +1,7 @@
 {
   "name": "Boxian Wen",
-  "headline_zh": "算法工程师，聚焦搜索、推荐、排序与后端智能系统",
-  "headline_en": "Algorithm Engineer focused on Search, Recommendation, Ranking, and Backend Intelligent Systems",
+  "headline_zh": "算法工程师，聚焦搜索、推荐、排序与智能后端系统",
+  "headline_en": "Algorithm Engineer focused on Search, Recommendation, Ranking, and Intelligent Backend Systems",
   "email": "boxian.wen@outlook.com",
   "github": "https://github.com/WBoxian",
   "linkedin": "https://linkedin.com/in/boxian-wen-6b00692b8",
@@ -30,9 +30,9 @@
   "targets": {
     "roles": [
       "Algorithm Engineer",
-      "Recommendation Engineer",
       "Search Engineer",
-      "Backend Intelligent Systems"
+      "Recommendation Engineer",
+      "Intelligent Backend Engineer"
     ],
     "phd": [
       "Fully funded AI multimodal coral conservation PhD",
@@ -40,10 +40,10 @@
     ]
   },
   "research_highlights": [
-    "RNA-seq and transcriptomics analysis",
-    "Environmental DNA metabarcoding",
-    "AI-assisted coral annotation with CoralNet",
-    "Bioinformatics and ecological data analysis"
+    "Environmental DNA analysis",
+    "Transcriptomics and RNA-seq",
+    "Bioinformatics pipelines",
+    "AI-assisted coral analysis with CoralNet"
   ],
   "featured_project": {
     "name": "Rednote Qilin Search & Recommendation System",
