@@ -1,0 +1,46 @@
+name: 更新贡献贪吃蛇
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 检出主页仓库
+        uses: actions/checkout@v4
+
+      - name: 生成明暗主题贡献动画
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: WBoxian
+          outputs: |
+            assets/github-snake.svg?color_snake=purple
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=purple
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 保存更新后的动画
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-snake.svg assets/github-snake-dark.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: 更新贡献贪吃蛇动画"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

@@ -55,3 +55,11 @@
 <p align="center">
   <sub>Minecraft 组件由 <a href="https://github.com/WJZ-P/CommitCraft">CommitCraft</a> 生成</sub>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WBoxian/WBoxian/main/assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WBoxian/WBoxian/main/assets/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/WBoxian/WBoxian/main/assets/github-snake.svg" alt="WBoxian 的 GitHub 贡献贪吃蛇" width="100%" />
+  </picture>
+</p>
