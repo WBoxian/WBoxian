@@ -1,7 +1,6 @@
 <p align="center">
-  <strong>总访问量</strong><br />
   <a href="https://count.getloli.com/">
-    <img src="https://count.getloli.com/@WBoxian-github-profile?theme=kasuterura-3&amp;padding=7&amp;scale=1&amp;darkmode=0" alt="总访问量 · 凉宫春日" />
+    <img src="https://count.getloli.com/@WBoxian-github-profile?theme=booru-lewd&amp;padding=7&amp;scale=1&amp;darkmode=0" alt="访问计数器" />
   </a>
 </p>
 
@@ -33,18 +32,17 @@
 </p>
 
 <p align="center">
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/commits.svg" alt="提交次数" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/stars.svg" alt="获得星标" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/prs.svg" alt="Pull Requests" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/issues.svg" alt="Issues" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/followers.svg" alt="关注者" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/repos.svg" alt="仓库数量" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/merged.svg" alt="已合并 PR" height="250" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/commits.svg" alt="提交次数" width="15%" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/stars.svg" alt="获得星标" width="15%" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/issues.svg" alt="Issues" width="15%" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/followers.svg" alt="关注者" width="15%" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/repos.svg" alt="仓库数量" width="15%" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/WBoxian/merged.svg" alt="已合并 PR" width="15%" /></a>
 </p>
 
 <p align="center">
   <a href="https://commit-craft.wjz-p.workers.dev/">
-    <img src="https://commit-craft.wjz-p.workers.dev/api/card/WBoxian.svg" alt="WBoxian 的 Minecraft 玩家护照" width="400" />
+    <img src="https://commit-craft.wjz-p.workers.dev/api/card/WBoxian.svg?quote=Hello%2C%20welcome%20to%20my%20GitHub%21" alt="WBoxian 的 Minecraft 玩家护照" width="400" />
   </a>
 </p>
 
